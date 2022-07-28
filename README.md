@@ -1,2 +1,2 @@
 # hello-python
-Very simple hello world python Flask application.
+Simple hello world python Flask application.
